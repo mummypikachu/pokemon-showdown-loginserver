@@ -137,4 +137,4 @@ exports.restartip = null;
  */
 exports.actions = null;
 
-exports.cssdir = __dirname + "/customcsss/";
+exports.cssdir = __dirname + "/customcss/";
